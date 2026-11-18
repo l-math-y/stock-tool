@@ -3,5 +3,3 @@ uvicorn
 akshare
 pandas
 numpy
-xgboost
-scikit-learn
